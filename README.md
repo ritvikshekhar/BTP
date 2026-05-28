@@ -1,3 +1,5 @@
+#     Bert+ Linear Layer
+Not Performing Well
 #     TF-IDF + LR
 Training samples: 325476 | Testing samples: 81370
 Converting text to TF-IDF features...
@@ -25,3 +27,5 @@ Top 5 Low-Calorie Indicators:
  carcass -267.095170
 brussels -252.753218
    panir -243.758570
+
+#     For Linear Reg cal pred if as features fats prot carbs taken it best.
